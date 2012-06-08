@@ -3,6 +3,8 @@ Modernizr [![Build Status](https://secure.travis-ci.org/Modernizr/Modernizr.png?
 
 ### a JavaScript library allowing you to use CSS3 & HTML5 while maintaining control over unsupported browsers 
 
+added by yibing
+
 Modernizr tests which native CSS3 and HTML5 features are available in
 the current UA and makes the results available to you in two ways:
 as properties on a global `Modernizr` object, and as classes on the
