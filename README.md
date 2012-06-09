@@ -25,3 +25,5 @@ Modernizr is dual-licensed under the BSD and MIT licenses.
 Run the library: [http://modernizr.github.com/Modernizr/output.html](http://modernizr.github.com/Modernizr/output.html)
 
 Run the test suite: [http://modernizr.github.com/Modernizr/test/](http://modernizr.github.com/Modernizr/test/)
+
+test for git pull
